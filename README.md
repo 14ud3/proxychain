@@ -12,7 +12,7 @@
 2. Clone this repository and remove Git tracking
 
 ```
-$ git clone https://github.com/kakugirai/proxychain.git
+$ git clone https://github.com/breylaude/proxychain.git
 $ cd proxychain
 $ rm -rf .git/
 ```
